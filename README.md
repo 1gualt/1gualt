@@ -1,1 +1,1 @@
-![Banner](https://github-readme-stats.vercel.app/api?username=1gualt&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1gualt&theme=dark)](https://git.io/streak-stats)
