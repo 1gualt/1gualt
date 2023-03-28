@@ -10,3 +10,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=1gualt&theme=dark)](https://git.io/streak-stats)
 
+![Stats stats](https://codestats-readme.avior.me/api?username=1gualt&show_icons=true&theme=dark)
