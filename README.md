@@ -1,9 +1,8 @@
 👨 <b>Just a 15yo man interested in </b>
-- OSINT
-- Code writting
-- Cybersecurity
-- Linux
-
+- <code>OSINT</code>
+- <code>Code writting</code>
+- <code>Cybersecurity</code>
+- <code>Linux</code>
 Writing in <code>C#</code>, <code>Python</code>, and with some knowledge of <code>Bash</code>.
 [![SkillIcons](https://skillicons.dev/icons?i=cs,py,mongodb,bash,discord,telegram)](https://skillicons.dev)<br/>
 
