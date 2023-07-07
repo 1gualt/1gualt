@@ -1,5 +1,4 @@
-👨 <b>Just a 15yo man interested in </b>
-* <code>OSINT</code>
+👨 <b>15yo man interested in</b>
 * <code>Code writting</code>
 * <code>Cybersecurity</code>
 * <code>Linux</code>
